@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "908702795746",
+    "firebase_url": "https://glue-3f988.firebaseio.com",
+    "project_id": "glue-3f988",
+    "storage_bucket": "glue-3f988.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908702795746:android:e03f18e027a7b742bf5bbb",
+        "android_client_info": {
+          "package_name": "com.appfactory.glue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908702795746-5ldu6lej48m61bdgvt6v5j614i8iv9im.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7QZPs1Uqk0LDyjGoy9Gna-W5Cl36ngew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908702795746-5ldu6lej48m61bdgvt6v5j614i8iv9im.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
